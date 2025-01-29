@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arjun Arundiyar
-- 👀 I’m interested in game development and software development
-- 🌱 I’m currently learning unreal game engine
+- 👀 I’m interested in python development and software development
+- 🌱 I’m currently learning DJANGO
 - 📫 How to reach me arjunarundiyar28@gmail.com
 - ⚡ Fun fact: I have great taste in music
